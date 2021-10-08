@@ -18,6 +18,11 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
+1. ❗️ Closed issue [#1](https://github.com/Manliketjb/QBCore-Lottoscript/issues/1) in [Manliketjb/QBCore-Lottoscript](https://github.com/Manliketjb/QBCore-Lottoscript)
+2. 🗣 Commented on [#1](https://github.com/Manliketjb/QBCore-Lottoscript/issues/1) in [Manliketjb/QBCore-Lottoscript](https://github.com/Manliketjb/QBCore-Lottoscript)
+3. 🗣 Commented on [#1](https://github.com/Manliketjb/QBCore-Lottoscript/issues/1) in [Manliketjb/QBCore-Lottoscript](https://github.com/Manliketjb/QBCore-Lottoscript)
+4. 💪 Opened PR [#2](https://github.com/Doxthehuman/QBCore-UTKU-Fleeca-Heist/pull/2) in [Doxthehuman/QBCore-UTKU-Fleeca-Heist](https://github.com/Doxthehuman/QBCore-UTKU-Fleeca-Heist)
+5. 💪 Opened PR [#1](https://github.com/Doxthehuman/QBCore-UTKU-Fleeca-Heist/pull/1) in [Doxthehuman/QBCore-UTKU-Fleeca-Heist](https://github.com/Doxthehuman/QBCore-UTKU-Fleeca-Heist)
 <!--END_SECTION:activity-->
 </details>
 
