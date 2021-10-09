@@ -8,9 +8,9 @@
 
 ---
 
-[![TJB's GitHub stats](https://github-readme-stats.vercel.app/api?username=Manliketjb&theme=radical)](https://github.com/Manliketjb/github-readme-stats)
+[![TJB's GitHub stats](https://github-readme-stats.vercel.app/api?username=Manliketjb&theme=radical)](https://github.com/Manliketjb)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manliketjb&layout=compact&theme=radical)](https://github.com/Manliketjb/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manliketjb&layout=compact&theme=radical)](https://github.com/Manliketjb)
 
 ---
 
