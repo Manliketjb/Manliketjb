@@ -23,11 +23,11 @@
 
 ---
 
-### Content: [<img align="right" alt="Manliketjb | YouTube" width="44px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+### Content: [<img align="center" alt="Manliketjb | YouTube" width="44px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 
 ---
 
-### Code support: [<img align="right" alt="Manliketjb | Twitter" width="44px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
+### Code support: [<img align="center" alt="Manliketjb | Twitter" width="44px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
 
 
 [website]: https://k50u34s4.yolasite.com/
