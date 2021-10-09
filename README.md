@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
-- 💻 My goal is to contribute more to the QBCore Framework
+- 💻 My goal is to contribute more to the [QBCore Framework][QBCore]
 
 ---
 
@@ -22,6 +22,7 @@
 
 
 [website]: https://discord.com/invite/aYMPk4c/
+[QBCore]: https://discord.gg/qbcore
 [discord]: https://discord.gg/dH8nTwZW6r
 [youtube]: https://www.youtube.com/channel/UCt5o-uXBUG9d2d4kQbgZzBg
 
