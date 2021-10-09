@@ -21,7 +21,7 @@
 ### Code support: [<img align="center" alt="Manliketjb | Twitter" width="44px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
 
 
-[website]: https://k50u34s4.yolasite.com/
+[website]: https://discord.com/invite/aYMPk4c/
 [discord]: https://discord.gg/dH8nTwZW6r
 [youtube]: https://www.youtube.com/channel/UCt5o-uXBUG9d2d4kQbgZzBg
 
