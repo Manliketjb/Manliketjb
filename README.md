@@ -1,6 +1,6 @@
 ### Hi there 👋 , I'm TJ - aka [Manliketjb][website]
 
-<a href="https://www.buymeacoffee.com/ManLikeTJB"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=ManLikeTJB&button_colour=BD5FFF&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00"></a>
+<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="ManLikeTJB" data-color="#FFDD00" data-emoji=""  data-font="Cookie" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" ></script>
 
 ## I'm a Developer, and Content creator.
 
