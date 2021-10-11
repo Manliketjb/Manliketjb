@@ -1,5 +1,7 @@
 ### Hi there 👋 , I'm TJ - aka [Manliketjb][website]
 
+<a href="https://www.buymeacoffee.com/ManLikeTJB"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=ManLikeTJB&button_colour=BD5FFF&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00"></a>
+
 ## I'm a Developer, and Content creator.
 
 - 🌱 I’m currently learning everything 🤣
@@ -11,10 +13,6 @@
 [![TJB's GitHub stats](https://github-readme-stats.vercel.app/api?username=Manliketjb&theme=radical)](https://github.com/Manliketjb)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Manliketjb&layout=compact&theme=radical)](https://github.com/Manliketjb)
-
----
-
-<a href="https://www.buymeacoffee.com/ManLikeTJB"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=ManLikeTJB&button_colour=BD5FFF&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00"></a>
 
 ---
 
