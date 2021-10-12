@@ -25,6 +25,9 @@
 ### Store:
 <a href="https://www.buymeacoffee.com/ManLikeTJB" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
+---
+
+![powered](https://user-images.githubusercontent.com/82594996/136998509-80b9ba8c-b04a-46ea-9dc0-d2bb01ac49a1.gif)
 
 [discord]: https://discord.gg/dH8nTwZW6r
 [youtube]: https://www.youtube.com/channel/UCt5o-uXBUG9d2d4kQbgZzBg
