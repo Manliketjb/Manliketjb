@@ -1,8 +1,8 @@
-### Hi there 👋 , I'm TJ - aka [Manliketjb][website]
+### Hi there 👋 , I'm TJ - aka **Manliketjb**
 
 <a href="https://www.buymeacoffee.com/ManLikeTJB" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a> - Support me or View my store!
 
-## I'm a Developer, and Content creator.
+## I'm a Developer and Content creator.
 
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
@@ -23,7 +23,6 @@
 ### Code support: [<img align="center" alt="Manliketjb | Twitter" width="44px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][discord]
 
 
-[website]: https://discord.com/invite/aYMPk4c/
 [QBCore]: https://discord.gg/qbcore
 [discord]: https://discord.gg/dH8nTwZW6r
 [youtube]: https://www.youtube.com/channel/UCt5o-uXBUG9d2d4kQbgZzBg
