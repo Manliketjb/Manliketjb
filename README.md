@@ -27,7 +27,8 @@
 
 ---
 
-![powered](https://user-images.githubusercontent.com/82594996/136998509-80b9ba8c-b04a-46ea-9dc0-d2bb01ac49a1.gif)
+![Project 1](https://user-images.githubusercontent.com/82594996/137000520-7791fa3a-ceee-43e8-a343-ed0665540cc0.gif)
+
 
 [discord]: https://discord.gg/dH8nTwZW6r
 [youtube]: https://www.youtube.com/channel/UCt5o-uXBUG9d2d4kQbgZzBg
