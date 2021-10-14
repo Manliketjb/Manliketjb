@@ -27,10 +27,9 @@
 
 ---
 
+![FreeCity](https://media.giphy.com/media/6xIPScz9xcj1D5BB9N/giphy.gif)
 
-![Project 2](https://media.giphy.com/media/6xIPScz9xcj1D5BB9N/giphy.gif)
-
-![Project 1](https://media.giphy.com/media/YdecvbR7FzuaRF8akI/giphy.gif)
+_**New City Coming soon™**_
 
 [discord]: https://discord.gg/dH8nTwZW6r
 [youtube]: https://www.youtube.com/channel/UCt5o-uXBUG9d2d4kQbgZzBg
