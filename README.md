@@ -27,8 +27,10 @@
 
 ---
 
-![Project 1](https://user-images.githubusercontent.com/82594996/137000520-7791fa3a-ceee-43e8-a343-ed0665540cc0.gif)
 
+![Project 2](https://media.giphy.com/media/6xIPScz9xcj1D5BB9N/giphy.gif)
+
+![Project 1](https://media.giphy.com/media/YdecvbR7FzuaRF8akI/giphy.gif)
 
 [discord]: https://discord.gg/dH8nTwZW6r
 [youtube]: https://www.youtube.com/channel/UCt5o-uXBUG9d2d4kQbgZzBg
