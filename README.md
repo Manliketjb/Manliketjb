@@ -23,6 +23,9 @@
 ---
 
 ### Store:
+
+[![tebex](https://dka575ofm4ao0.cloudfront.net/pages-transactional_logos/retina/161074/Black.png)](https://tj-scripts.tebex.io/)
+
 <a href="https://www.buymeacoffee.com/ManLikeTJB" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 ---
