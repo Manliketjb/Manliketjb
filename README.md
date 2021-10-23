@@ -34,5 +34,5 @@ _**New City Coming soon™**_
 
 [discord]: https://discord.gg/dH8nTwZW6r
 [youtube]: https://www.youtube.com/channel/UCt5o-uXBUG9d2d4kQbgZzBg
-
+[qbcore]: https://github.com/qbcore-framework
  
