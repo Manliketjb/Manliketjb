@@ -24,9 +24,9 @@
 
 ---
 
-![FreeCity](https://media.giphy.com/media/6xIPScz9xcj1D5BB9N/giphy.gif)
+[![FreeCity](https://media.giphy.com/media/6xIPScz9xcj1D5BB9N/giphy.gif)](https://discord.gg/ExVFTRaFGf)
 
-_**New City Coming soon™**_
+_**👆 New City Out Now!! ☝™**_
 
 [youtube]: https://www.youtube.com/channel/UCt5o-uXBUG9d2d4kQbgZzBg
 [qbcore]: https://github.com/qbcore-framework
