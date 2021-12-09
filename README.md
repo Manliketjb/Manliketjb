@@ -2,7 +2,6 @@
 
 ## I'm a Developer and Content creator.
 
-- 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 💻 My goal is to contribute more to the [QBCore Framework][QBCore]
 
@@ -17,6 +16,7 @@
 ### Content: [<img align="center" alt="Manliketjb | YouTube" width="44px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 
 ---
+
 ### Support the team:
 
 https://free-city.tebex.io/package/4793884
@@ -34,4 +34,7 @@ _**👆 New City Out Now!! ☝™**_
 
 [youtube]: https://www.youtube.com/channel/UCt5o-uXBUG9d2d4kQbgZzBg
 [qbcore]: https://github.com/qbcore-framework
+
+**Personal Discord -**
+https://discord.gg/aYMPk4c
  
