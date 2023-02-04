@@ -21,11 +21,6 @@ https://hub-development.tebex.io/
 
 ---
 
-### Support the team:
-
-https://free-city.tebex.io/package/4793884
-
-
 ### Support me:
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J3CCXUB)
@@ -34,11 +29,9 @@ https://free-city.tebex.io/package/4793884
 
 [![FreeCity](https://media.giphy.com/media/6xIPScz9xcj1D5BB9N/giphy.gif)](https://discord.gg/ExVFTRaFGf)
 
-_**👆 New City Out Now!! ☝™**_
+_**👆 Free City RP!! ☝™**_
 
 [youtube]: https://www.youtube.com/channel/UCt5o-uXBUG9d2d4kQbgZzBg
-[qbcore]: https://github.com/qbcore-framework
 
 **Personal Discord -**
 https://discord.gg/aYMPk4c
- 
