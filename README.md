@@ -2,8 +2,7 @@
 
 ## I'm a Developer and Content creator.
 
-- 👯 I’m looking to collaborate with other content creators
-- 💻 My goal is to contribute more to the [QBCore Framework][QBCore]
+- 💻 Owner and Lead Developer For FreeCityRP
 
 ---
 
