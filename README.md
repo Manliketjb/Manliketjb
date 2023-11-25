@@ -26,10 +26,6 @@ https://hub-development.tebex.io/
 
 ---
 
-[![FreeCity](https://media.giphy.com/media/6xIPScz9xcj1D5BB9N/giphy.gif)](https://discord.gg/ExVFTRaFGf)
-
-_**👆 Free City RP!! ☝™**_
-
 [youtube]: https://www.youtube.com/channel/UCt5o-uXBUG9d2d4kQbgZzBg
 
 **Personal Discord -**
