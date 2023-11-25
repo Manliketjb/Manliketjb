@@ -14,12 +14,6 @@
 
 ---
 
-### Support me:
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J3CCXUB)
-
----
-
 [youtube]: https://www.youtube.com/channel/UCt5o-uXBUG9d2d4kQbgZzBg
 
 **Personal Discord -**
