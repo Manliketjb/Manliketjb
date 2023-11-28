@@ -2,8 +2,6 @@
 
 ## I'm a Developer and Content creator.
 
-- 💻 Owner and Lead Developer For FreeCityRP
-
 ---
 
 [![TJB's GitHub stats](https://github-readme-stats.vercel.app/api?username=Manliketjb&theme=radical)](https://github.com/Manliketjb)
